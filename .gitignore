@@ -1,0 +1,5 @@
+*.gslides
+*.gdoc
+*.ini
+*.exe
+.*/
